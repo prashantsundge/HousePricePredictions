@@ -4,6 +4,22 @@
 
 Welcome to my Jupyter Notebook dedicated to the analysis and prediction of house prices using advanced regression techniques. In this notebook, I will walk you through a comprehensive data analysis and machine learning project aimed at predicting house prices based on various features.
 
+## List Of Files in Project
+
+- [0.1 ver KAGGLE HOUSE PRICES ADVANCED REGRESSION TECHNIQUES.ipynb](0.1%20ver%20KAGGLE%20HOUSE%20PRICES%20ADVANCED%20REGRESSION%20TECHNIQUES.ipynb)
+- [0.1 ver KAGGLE HOUSE PRICES ADVANCED REGRESSION TECHNIQUES.pdf](0.1%20ver%20KAGGLE%20HOUSE%20PRICES%20ADVANCED%20REGRESSION%20TECHNIQUES.pdf)
+- [Advanced_House_price_prediction_profile.zip](Advanced_House_price_prediction_profile.zip)
+- [Backup.csv](Backup.csv)
+- [KAGGLE HOUSE PRICES ADVANCED REGRESSION TECHNIQUES.ipynb](KAGGLE%20HOUSE%20PRICES%20ADVANCED%20REGRESSION%20TECHNIQUES.ipynb)
+- [README.md](README.md)
+- [data_description.txt](data_description.txt)
+- [house_prices_Advanced_linear_regression.csv](house_prices_Advanced_linear_regression.csv)
+- [house_prices_LinearRegression.csv](house_prices_LinearRegression.csv)
+- [sample_submission.csv](sample_submission.csv)
+- [test.csv](test.csv)
+- [train.csv](train.csv)
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
